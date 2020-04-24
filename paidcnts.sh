@@ -5,7 +5,7 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Note: Password w/ Special Characters are not allowed.
-dbhost='1piecevpn.info';
+dbhost='185.11.145.5';
 dbuser='matssxyz8_onepiece';
 dbpass='piratavpn';
 dbname='matssxyz8_onepiece';
