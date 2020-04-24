@@ -5,11 +5,10 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Note: Password w/ Special Characters are not allowed.
-dbhost='185.61.137.168';
+dbhost='mysql1.blazingfast.io';
 dbuser='matssxyz8_onepiece';
 dbpass='piratavpn';
 dbname='matssxyz8_onepiece';
-dbport='3306';
 
 
 ##certificates
